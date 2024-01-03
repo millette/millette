@@ -6,6 +6,8 @@ Je ne suis pas une page web. I am not a webpage.
 
 ### Stats
 
+[![Robin Millette profile views](https://u8views.com/api/v1/github/profiles/50741/views/day-week-month-total-count.svg)](https://u8views.com/github/millette)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=millette&theme=onedark)
 
 ![Streak](https://api.atuin.sh/img/millette.png?token=76a3a7bd13d01fa47ac0719bddb0484a5cc73b4b)
