@@ -4,10 +4,6 @@
 
 Je ne suis pas une page web. I am not a webpage.
 
-### Music
-
-<iframe height="2em" src='https://scrobble.observer/user/millette?theme=plain'></iframe>
-
 ### Stats
 
 [![Robin Millette profile views](https://u8views.com/api/v1/github/profiles/50741/views/day-week-month-total-count.svg)](https://u8views.com/github/millette)
