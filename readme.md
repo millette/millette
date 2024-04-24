@@ -14,6 +14,7 @@ Je ne suis pas une page web. I am not a webpage.
   </picture>
 </p>
 
+Voir <https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid> pour l'ajouter à votre propre profil GitHub.
 
 ### Stats
 
