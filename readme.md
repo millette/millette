@@ -22,6 +22,10 @@ Voir <https://github.com/marketplace/actions/generate-snake-game-from-github-con
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=millette&theme=onedark)
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=millette) ![GitHub Streak](https://streak-stats.demolab.com?user=millette&theme=submarine-flowers&locale=fr&date_format=n%2Fj%5B%2FY%5D)
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=millette) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=millette&theme=submarine-flowers&locale=fr&date_format=j%20M%5B%20Y%5D)
+
+<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=millette&theme=submarine-flowers&locale=fr&date_format=n%2Fj%5B%2FY%5D)
+-->
 
 [Plus de stats - More stats](https://metrics.lecoq.io/insights/millette)
